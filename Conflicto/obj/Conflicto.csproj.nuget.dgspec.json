@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\GUILLERMO\\Desktop\\CONFLICTO 3\\pruebaConflicto3\\Conflicto\\Conflicto.csproj": {}
   },
   "projects": {
@@ -19,6 +20,27 @@
         "configFilePaths": [
           "C:\\Users\\GUILLERMO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+    "F:\\pruebitakraken\\pruebaConflicto3\\Conflicto\\Conflicto.csproj": {}
+  },
+  "projects": {
+    "F:\\pruebitakraken\\pruebaConflicto3\\Conflicto\\Conflicto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\pruebitakraken\\pruebaConflicto3\\Conflicto\\Conflicto.csproj",
+        "projectName": "Conflicto",
+        "projectPath": "F:\\pruebitakraken\\pruebaConflicto3\\Conflicto\\Conflicto.csproj",
+        "packagesPath": "C:\\Users\\EQUIPO\\.nuget\\packages\\",
+        "outputPath": "F:\\pruebitakraken\\pruebaConflicto3\\Conflicto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EQUIPO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> Stashed changes
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "SoFSUArceMzwjSV4SBacPLaBvJhO4lbDNV9LZpTpBz6/vuGGAGhJy1A8p/8b2yRVWzdrUIE/UciJHVmMXBtwPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\GUILLERMO\\Desktop\\CONFLICTO 3\\pruebaConflicto3\\Conflicto\\Conflicto.csproj",
+=======
+  "dgSpecHash": "NKYDksysWqWHmMLjT/A2S3SP9j/RXLkd+3HKqJWrUYMrA3HoQ8oZbmQEM3L1E+2dQmQ5KLzt/Cb8DQFXoo+IQw==",
+  "success": true,
+  "projectFilePath": "F:\\pruebitakraken\\pruebaConflicto3\\Conflicto\\Conflicto.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }
