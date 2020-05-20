@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\joaqu\\.nuget\\packages\\": {}
+    "C:\\Users\\GUILLERMO\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaqu\\OneDrive\\Documentos\\prubieta\\pruebaConflicto3\\Conflicto\\Conflicto.csproj",
+      "projectUniqueName": "C:\\Users\\GUILLERMO\\Desktop\\CONFLICTO 3\\pruebaConflicto3\\Conflicto\\Conflicto.csproj",
       "projectName": "Conflicto",
-      "projectPath": "C:\\Users\\joaqu\\OneDrive\\Documentos\\prubieta\\pruebaConflicto3\\Conflicto\\Conflicto.csproj",
-      "packagesPath": "C:\\Users\\joaqu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaqu\\OneDrive\\Documentos\\prubieta\\pruebaConflicto3\\Conflicto\\obj\\",
+      "projectPath": "C:\\Users\\GUILLERMO\\Desktop\\CONFLICTO 3\\pruebaConflicto3\\Conflicto\\Conflicto.csproj",
+      "packagesPath": "C:\\Users\\GUILLERMO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GUILLERMO\\Desktop\\CONFLICTO 3\\pruebaConflicto3\\Conflicto\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\joaqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\GUILLERMO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -14,5 +14,6 @@ namespace Conflicto.models
         public int edad { get; set; }
         public int age { get; set; }
         public asd MyProperty { get; set; }
+        public int HOLA { get; set; }
     }
 }
