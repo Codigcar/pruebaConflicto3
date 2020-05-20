@@ -12,6 +12,7 @@ namespace Conflicto.models
         public int age { get; set; }
         public int nuevo2 { get; set; }
 
+        public int nuevo3 { get; set; }
         //hola
     }
 }

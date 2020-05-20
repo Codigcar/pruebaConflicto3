@@ -10,6 +10,9 @@
   "packageFolders": {
 <<<<<<< Updated upstream
     "C:\\Users\\GUILLERMO\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\Angie\\.nuget\\packages\\": {},
+>>>>>>> Stashed changes
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
 =======
     "C:\\Users\\EQUIPO\\.nuget\\packages\\": {},
@@ -25,12 +28,23 @@
       "projectPath": "C:\\Users\\GUILLERMO\\Desktop\\CONFLICTO 3\\pruebaConflicto3\\Conflicto\\Conflicto.csproj",
       "packagesPath": "C:\\Users\\GUILLERMO\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\GUILLERMO\\Desktop\\CONFLICTO 3\\pruebaConflicto3\\Conflicto\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Angie\\Desktop\\prueba\\pruebaConflicto3\\Conflicto\\Conflicto.csproj",
+      "projectName": "Conflicto",
+      "projectPath": "C:\\Users\\Angie\\Desktop\\prueba\\pruebaConflicto3\\Conflicto\\Conflicto.csproj",
+      "packagesPath": "C:\\Users\\Angie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Angie\\Desktop\\prueba\\pruebaConflicto3\\Conflicto\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< Updated upstream
         "C:\\Users\\GUILLERMO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\Angie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> Stashed changes
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
 =======
       "projectUniqueName": "F:\\pruebitakraken\\pruebaConflicto3\\Conflicto\\Conflicto.csproj",

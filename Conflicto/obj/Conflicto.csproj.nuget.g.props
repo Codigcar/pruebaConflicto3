@@ -8,7 +8,11 @@
 <<<<<<< Updated upstream
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\GUILLERMO\.nuget\packages\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
 =======
+<<<<<<< Updated upstream
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\EQUIPO\.nuget\packages\;C:\Microsoft\Xamarin\NuGet\</NuGetPackageFolders>
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Angie\.nuget\packages\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
+>>>>>>> Stashed changes
 >>>>>>> Stashed changes
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.5.0</NuGetToolVersion>
