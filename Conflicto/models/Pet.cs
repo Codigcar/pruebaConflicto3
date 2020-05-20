@@ -10,6 +10,7 @@ namespace Conflicto.models
         public int Id { get; set; }
         public int Name { get; set; }
         public int age { get; set; }
+        public int nuevo2 { get; set; }
 
         //hola
     }
