@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\carlo\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\joaqu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\Desktop\\pruebaConflicto\\Person2\\pruebaConflicto\\Conflicto\\Conflicto.csproj",
+      "projectUniqueName": "C:\\Users\\joaqu\\OneDrive\\Documentos\\prubieta\\pruebaConflicto3\\Conflicto\\Conflicto.csproj",
       "projectName": "Conflicto",
-      "projectPath": "C:\\Users\\carlo\\Desktop\\pruebaConflicto\\Person2\\pruebaConflicto\\Conflicto\\Conflicto.csproj",
-      "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\Desktop\\pruebaConflicto\\Person2\\pruebaConflicto\\Conflicto\\obj\\",
+      "projectPath": "C:\\Users\\joaqu\\OneDrive\\Documentos\\prubieta\\pruebaConflicto3\\Conflicto\\Conflicto.csproj",
+      "packagesPath": "C:\\Users\\joaqu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joaqu\\OneDrive\\Documentos\\prubieta\\pruebaConflicto3\\Conflicto\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\joaqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
